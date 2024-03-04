@@ -8,5 +8,9 @@ URL: https://www.kaggle.com/datasets/mohithsairamreddy/salary-data/data
 ## Setup
 ```
 pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install numpy
+pip install graphviz
 pip install -U scikit-learn
 ```
